@@ -1,0 +1,16 @@
+body {
+    background-color: rgb(251, 191, 253);
+    font-family: cursive;
+
+}
+
+
+
+
+a {
+    padding: 100px;
+    color: rgb(5, 201, 5);
+}
+a:hover {
+    color: #ff42d6;
+}
