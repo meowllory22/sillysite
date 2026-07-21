@@ -3,9 +3,15 @@ body {
     font-family: cursive;
 
 }
-
-
-
+h1 {
+    color: #ff42d6;
+}
+h3 {
+    color:#ff42d6;
+}
+marquee {
+    color: rgb(149, 56, 255);
+}
 
 a {
     padding: 100px;
